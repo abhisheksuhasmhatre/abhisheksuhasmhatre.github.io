@@ -191,6 +191,11 @@ font header .navbar-default .navbar-nav li a:hover {
     width: 1000px;
     margin-left: 50px;
 }
+.uieightux {
+    height: 600px;
+    width: 1000px;
+    margin-left: 50px;
+}
 #uisixuxone {
     height: 600px;
     width: 1000px;
@@ -225,6 +230,9 @@ figcaption {
 }
 .move {
     margin-left: 60px;
+}
+.moveeight {
+    margin-top: 40px;
 }
 #margin {
     margin-left: 20px;
