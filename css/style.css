@@ -155,6 +155,9 @@ font header .navbar-default .navbar-nav li a:hover {
 #imgui {
     padding-top: 64px;
 }
+.uifiveux {
+    padding-top: 64px;
+}
 #imguithree {
     padding-top: 64px;
 }
@@ -174,6 +177,29 @@ font header .navbar-default .navbar-nav li a:hover {
     height: 350px;
     width: 500px;
     padding: 2em;
+}
+#uifive {
+    height: 500px;
+    width: 300px;
+}
+#uifiveux {
+    height: 500px;
+    width: 600px;
+}
+#uisixux {
+    height: 600px;
+    width: 1000px;
+    margin-left: 50px;
+}
+#uisixuxone {
+    height: 600px;
+    width: 1000px;
+    margin-left: 50px;
+}
+.uiseven {
+    height: 600px;
+    width: 900px;
+    margin-left: 70px;
 }
 .imgone {
     padding-top: 122px;
@@ -229,6 +255,13 @@ figcaption {
   height: 300px;
   width: 475px;
   padding-top: 44px;
+}
+#intro .block .imgui {
+  padding-left: 40px;
+  top: 40px;
+  width: 100%;
+  height: 300px;
+  width: 475px;
 }
 #intro .block .imgui {
   padding-left: 40px;
@@ -329,6 +362,11 @@ figcaption {
   margin: 0;
   font-size: 14px;
   line-height: 1.8;
+}
+#logo {
+    margin: -6px;
+    height: 60px;
+    width: 125px;
 }
 #logos {
     height: 1500px;
