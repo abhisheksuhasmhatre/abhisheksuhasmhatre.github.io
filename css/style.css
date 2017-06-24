@@ -292,6 +292,88 @@ figcaption {
   height: 600px;
   width: 1090px;
 }
+#intro .block .imgthree {
+  padding-left: 40px;
+  top: 40px;
+  width: 100%;
+  height: 350px;
+  width: 1050px;
+}
+#intro .block .imgfour {
+  padding-left: 40px;
+  top: 40px;
+  width: 100%;
+  height: 700px;
+  width: 1050px;
+}
+#intro .block .imgfive {
+  padding-left: 40px;
+  top: 40px;
+  width: 100%;
+  height: 700px;
+  width: 800px;
+}
+#intro .block .smallimgs {
+  padding-left: 40px;
+  top: 40px;
+  width: 100%;
+  height: 200px;
+  width: 350px;
+}
+#intro .block .smallimgstwo {
+  padding-left: 180px;
+  top: 40px;
+  width: 100%;
+  height: 200px;
+  width: 500px;
+}
+#intro .block .smallimgsthree {
+  padding-left: 330px;
+  top: 40px;
+  width: 100%;
+  height: 200px;
+  width: 650px;
+}
+#intro .block .smallimgsfour {
+  padding-left: 40px;
+  padding-top: 20px;
+  top: 50px;
+  width: 100%;
+  height: 300px;
+  width: 520px;
+}
+#intro .block .smallimgsfourui {
+  padding-left: 100px;
+  padding-top: 20px;
+  top: 50px;
+  width: 100%;
+  height: 300px;
+  width: 590px;
+}
+#intro .block .smallimgsfive {
+  padding-left: 350px;
+  padding-top: 20px;
+  top: 40px;
+  width: 100%;
+  height: 300px;
+  width: 830px;
+}
+#intro .block .smallimgssix {
+  padding-left: 40px;
+  padding-top: 20px;
+  top: 40px;
+  width: 100%;
+  height: 400px;
+  width: 1000px;
+}
+#intro .block .imguifour {
+  padding-left: 150px;
+  padding-top: 20px;
+  top: 40px;
+  width: 100%;
+  height: 1070px;
+  width: 1000px;
+}
 #intro .block .imgiottwo {
   padding-left: 40px;
   top: 40px;
@@ -427,7 +509,7 @@ figcaption {
 	calltoaction Start
 --*/
 #calltoaction {
-  background: url("../img/calltoaction-bg.jpg") no-repeat;
+  background: url("../img/calltoactionbg.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   padding: 70px 0px;
